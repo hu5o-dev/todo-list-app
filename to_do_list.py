@@ -1,5 +1,3 @@
-# to_do_list.py
-
 import sys
 
 # Initialize an empty list to store tasks
