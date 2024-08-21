@@ -1,6 +1,6 @@
 import sys
 
-# Initialize an empty list to store tasks
+
 tasks = []
 
 def show_tasks():
